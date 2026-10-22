@@ -20,7 +20,8 @@ export default function Cart() {
   }
 
   return (
-    <div className="cart">
+//TODO build cart with items
+<div className="cart">
       <h2>Your Cart</h2>
       <ul>
         {items.map((item) => (
