@@ -10,7 +10,7 @@ function Header() {
       <Link to="/" className="logo">MerryPixel's MiniShop</Link>
       <nav>
         <Link to="/">Home</Link>
-        <Link to="/cart">Cart ({totalCount})</Link>
+        <Link to="/cart">My Cart ({totalCount})</Link>
       </nav>
     </header>
   )
